@@ -28,7 +28,7 @@ In the subject line of your email, always follow the format “”Your name” +
 
 The title of each Google Doc assignment you submitted should also always be “”Your name” + “Assignment Title””.  
 
-Your coach will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job. 
+Your coach will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job offer. 
 
 Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it and be thoughtful about the assignments. Everything you will work on in this track will impact your job search in some way. 
 
@@ -37,3 +37,5 @@ Similar to coding, jobseeking is a skill that takes time to learn and practice. 
 Now dive in!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-welcome'>Careers Welcome</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-welcome'>Welcome to Career Prep</a> on Learn.co and start learning to code for free.</p>
