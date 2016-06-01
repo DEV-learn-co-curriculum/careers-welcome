@@ -24,7 +24,7 @@ In the subject line of your email, always follow the format “”Your name” +
 
 >Your City, State
 
->Url link to this specific google doc. 
+>URL link to this specific google doc. 
 
 The title of each Google Doc assignment you submitted should also always be “”Your name” + “Assignment Title””.  
 
