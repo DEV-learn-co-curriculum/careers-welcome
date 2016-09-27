@@ -13,7 +13,12 @@ We’ll take you through units that cover every aspect of the job search, includ
 
 These lessons are meant to be tactical and actionable, and in some cases at the end of a lesson there will be an assignment for you to complete and submit. Make sure you don’t miss any of these.
 
-Wherever you need to submit an assignment, you will be emailing them to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments
+
+## If You Have a Premium Account 
+
+**You are expected to complete this track, including all assignments, within 30 days of graduation.**
+
+Wherever you need to submit an assignment, you will be emailing them to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. Please note, that if you have a basic account, you will not be assigned a coach. 
 
 
 In the subject line of your email, always follow the format “”Your name” + “Assignment Title”” In almost all cases, we’ll ask that you submit assignments through Google Docs. If you don’t have Google Drive set up, first go to drive.google.com and follow instructions from there. In the body of your email submissions, you’ll also include the following:
@@ -35,7 +40,5 @@ Everyone works at a different pace. There is no right or wrong amount of time to
 Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
 
 Now dive in!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-welcome'>Careers Welcome</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-welcome'>Welcome to Career Prep</a> on Learn.co and start learning to code for free.</p>
