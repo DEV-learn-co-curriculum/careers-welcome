@@ -17,6 +17,8 @@ Everyone works at a different pace. There is no right or wrong amount of time to
 
 In addition to this content, you will be working with an individual career coach, as well as, the entire Career Services team. Your coach will set goals with you, hold you accountable to those goals, and will work with you for the next six months (or until you have a job offer). Check out this quick video to learn more about Career Services and what you can expect! https://youtu.be/uZLWqBmXo1c
 
+
 Now dive in!
+
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-welcome'>Welcome to Career Prep</a> on Learn.co and start learning to code for free.</p>
