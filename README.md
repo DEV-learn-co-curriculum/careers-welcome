@@ -12,13 +12,13 @@ We’ll take you through units that cover every aspect of the job search, includ
 - Managing job offers
 
 
-Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it - everything you will work on in this track will impact your job search in some way. Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
-****
-****
+.. Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it - everything you will work on in this track will impact your job search in some way. Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
+
+
 In addition to this content, you will be working with an individual career coach, as well as, the entire Career Services team. Your coach will set goals with you, hold you accountable to those goals, and will work with you for the next six months (or until you have a job offer). Check out [this quick video](https://youtu.be/uZLWqBmXo1c) to learn more about Career Services and what you can expect! 
-****
-****
-Now dive in!
-****
-****
+
+
+# Now dive in!
+
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-welcome'>Welcome to Career Prep</a> on Learn.co and start learning to code for free.</p>
