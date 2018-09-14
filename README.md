@@ -5,7 +5,7 @@ You just learned tons of new technical stuff, and now you’re equipped with the
 
 We’ll take you through units that cover every aspect of the job search, including:
 
-  - Building a strong job search foundation
+    - Building a strong job search foundation
   - Writing resumes and cover letters
   - Creating your professional brand, including Linkedin, Twitter, GitHub, and blog
   - Networking effectively
