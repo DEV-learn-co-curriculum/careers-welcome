@@ -1,13 +1,13 @@
 # Welcome to Career Prep
 
-You just learned tons of new technical stuff, and now you’re equipped with the skills to make you a junior developer. This next track will guide you through the process that will end with a job offer. Know that it will be really hard, and that’s why we have set up this track like a roadmap to prepare you for what’s to come. We know what it takes to get a developer job because we’ve done this with over 1,500 students over the past five years. That’s why we’ve set up the [Career Services Commitment](https://flatironschool.com/career-services-commitment/) (also referred to as the “CSC”) the way we did. If you stick to what we recommend you do in the CSC, you’ll be set up to get a job.
+You just learned tons of new knowledge and skills in your program, and now you’re equipped with what it takes to make you a competitive candidate. This next track will guide you through the process that will end with a job offer. Know that it will be really hard, and that’s why we have set up this track like a roadmap to prepare you for what’s to come. We know what it takes to get a job because we’ve done this with over 1,500 students over the past five years. That’s why we’ve set up the [Career Services Commitment](https://flatironschool.com/career-services-commitment/) (also referred to as the “CSC”) the way we did. If you stick to what we recommend you do in the CSC, you’ll be set up to get a job.
 
 
 We’ll take you through units that cover every aspect of the job search, including:
 
   - Building a strong job search foundation
   - Writing resumes and cover letters
-  - Creating your professional brand, including Linkedin, Twitter, GitHub, and blog
+  - Creating your professional brand and online presence
   - Networking effectively
   - Applying to jobs
   - Preparing for interviews (both technical and non-technical)
