@@ -16,7 +16,7 @@ We’ll take you through units that cover every aspect of the job search, includ
   - Continuing professional development
   
   
-Take your time reading through this track, and whatever you do, don't rush through it. Everything that you will read and work on here will impact your job search in some way, and has been personally written by our team of Career Coaches with YOUR SUCCESS in mind. Similar to coding, job seeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process as you need them, to build smart practices and optimize the results of your activities.
+Take your time reading through this track, and whatever you do, don't rush through it. Everything that you will read and work on here will impact your job search in some way, and has been personally written by our team of Career Coaches with YOUR SUCCESS in mind. Job seeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process as you need them, to build smart practices and optimize the results of your activities.
 
 
 In addition to this content, you will be working with an individual Career Coach, as well as, the entire Career Services team. Your coach will set goals with you, hold you accountable to those goals, and will work with you for the next six months (or until you have a job offer). Check out this [this quick video](https://youtu.be/uZLWqBmXo1c) to learn more about Career Services and what you can expect!
